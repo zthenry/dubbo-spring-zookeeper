@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="service-test-provider"
+  id="myeclipse.1413695255413"
+  context-root="/service-test-provider"
+  j2ee-spec="6.0"
+  archive="service-test-provider.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,5 @@
+#surefire
+#Sun Oct 19 18:06:00 CST 2014
+user.dir=/home/henry/Workspaces/serviceManage/service-api
+localRepository=/home/henry/mavenRepo
+basedir=/home/henry/Workspaces/serviceManage/service-api

@@ -1,0 +1,5 @@
+#surefire
+#Sun Oct 19 18:06:03 CST 2014
+user.dir=/home/henry/Workspaces/serviceManage/service-test-provider
+localRepository=/home/henry/mavenRepo
+basedir=/home/henry/Workspaces/serviceManage/service-test-provider
